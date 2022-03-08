@@ -3,15 +3,16 @@ Data Science Engineer | Developer | Tech 👩🏻‍💻
 
 👩🏻‍🎓 About me
 
-▫️👧🏻 Pronouns : She/her
+- 👧🏻 Pronouns : She/her
 
-▫️🏅 Completed 3 Years of Diploma in Computer Engineering
+- 🏅 Completed 3 Years of Diploma in Computer Engineering
 
-▫️🕵🏻‍♀️ Currently Pursuing graduation in Data science Engineer
+▫️
+- 🕵🏻‍♀️ Currently Pursuing graduation in Data science Engineer
 
-▫️🌱 Learning : Python, Java, JS, C, C++
+- 🌱 Learning : Python, Java, JS, C, C++
 
-▫️💻 My expertise includes project design, Data analysis, computer languages & development, etc.
+- 💻 My expertise includes project design, Data analysis, computer languages & development, etc.
 
 🤝 I’m also eager to meet other software engineers in the area, so feel free to connect!
 <!--
@@ -41,14 +42,10 @@ Here are some ideas to get you started:
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (facebook icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (github icon with padding)
+[1.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (facebook icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (github icon without padding)
-
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
