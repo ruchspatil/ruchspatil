@@ -38,5 +38,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img align="left" alt="Coding" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
-<img align="left" alt="Coding" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
+
+<img align="left" alt="Coding" width="47" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<img align="left" alt="Coding" width="47" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
+<img align="left" alt="Coding" width="47" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
