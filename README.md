@@ -14,20 +14,8 @@ Data Science Engineer | Developer | Tech 👩🏻‍💻
 - 💻 My expertise includes project design, Data analysis, computer languages & development, etc.
 
 🤝 I’m also eager to meet other software engineers in the area, so feel free to connect!
-<!--
-**Ruchita-Patil/Ruchita-Patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning about Data science
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,3 +31,4 @@ Here are some ideas to get you started:
 <img align="left" alt="Coding" width="47" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
 <img align="left" alt="Coding" width="47" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
 <img align="left" alt="Coding" width="47" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+<img align="left" alt="Coding" width="36" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
