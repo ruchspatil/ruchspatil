@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <!-- update these accordingly -->
 
 
-[1]: https://www.linkedin.com/in/ruchita-s-patil
+[1]: https://m.facebook.com/100048795615321
 [2]: http://www.github.com/ruchita-patil
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
