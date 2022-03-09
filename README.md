@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 <img align="left" alt="Coding" width="47" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <img align="left" alt="Coding" width="47" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
 <img align="left" alt="Coding" width="47" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
+<img align="left" alt="Coding" width="47" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
