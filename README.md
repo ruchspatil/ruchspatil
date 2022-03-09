@@ -31,4 +31,5 @@ Data Science Engineer | Developer | Tech 👩🏻‍💻
 <img align="left" alt="Coding" width="47" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
 <img align="left" alt="Coding" width="47" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
 <img align="left" alt="Coding" width="47" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-<img align="left" alt="Coding" width="36" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+<img align="left" alt="Coding" width="32" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+<img align="left" alt="Coding" width="47" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
