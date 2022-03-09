@@ -7,7 +7,6 @@ Data Science Engineer | Developer | Tech 👩🏻‍💻
 
 - 🏅 Completed 3 Years of Diploma in Computer Engineering
 
-▫️
 - 🕵🏻‍♀️ Currently Pursuing graduation in Data science Engineer
 
 - 🌱 Learning : Python, Java, JS, C, C++
