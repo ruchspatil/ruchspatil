@@ -1,4 +1,4 @@
-### Hello there 👋 I m Ruchita
+### Hello there 👋 I'm Ruchita
 Data Science Engineer | Developer | Tech 👩🏻‍💻
 
 👩🏻‍🎓 About me
