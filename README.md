@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-
+[![alt text][3.1]][3]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 [1.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
+[3.1]: http://i.imgur.com/P3YfQoD.png
 <!-- icons without padding -->
 
 <!-- links to your social media accounts -->
@@ -52,5 +52,6 @@ Here are some ideas to get you started:
 
 [1]: https://m.facebook.com/100048795615321
 [2]: http://www.github.com/ruchita-patil
+[3]: https://instagram.com/ruchita.here?utm_medium=copy_link
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
