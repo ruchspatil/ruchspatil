@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 [1.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[3.1]: http://i.imgur.com/P3YfQoD.png
+[3.1]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Facebook_black.png
 <!-- icons without padding -->
 
 <!-- links to your social media accounts -->
