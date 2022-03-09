@@ -37,4 +37,6 @@ Here are some ideas to get you started:
 <a href="https://m.facebook.com/100048795615321" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+<h3 align="left">Languages and Tools:</h3>
+<img align="left" alt="Coding" width="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
+<img align="left" alt="Coding" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
