@@ -1,5 +1,5 @@
 ### Hello there 👋 I'm Ruchita
-Data Science Engineer | Developer | Tech 👩🏻‍💻
+Data Science Engineer | Data Analyst 👩🏻‍💻
 
 👩🏻‍🎓 About me
 
