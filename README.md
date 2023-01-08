@@ -9,7 +9,7 @@ Data Science Engineer | Data Analyst 👩🏻‍💻
 
 - 🕵🏻‍♀️ Currently Pursuing graduation in Data science Engineer
 
-- 🌱 Learning : Python, Java, JS, C, C++
+- 🌱 Learning : Python, C, C++, SQL
 
 - 💻 My expertise includes project design, Data analysis, computer languages & development, etc.
 
