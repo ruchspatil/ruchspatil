@@ -10,6 +10,10 @@ Pre-final year student with a Bachelor (B.Tech) degree in Data science engineeri
 <a href="https://www.linkedin.com/in/ruchspatil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
 
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+</div>
 <h3 align="left">Languages and Tools:</h3>
 
 
