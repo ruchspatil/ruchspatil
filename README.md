@@ -6,8 +6,8 @@ Pre-final year student with a Bachelor (B.Tech) degree in Data science engineeri
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://www.github.com/ruchspatil" target="blank">  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="https://www.linkedin.com/in/ruchspatil" target="blank"><img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+<a href="https://www.linkedin.com/in/ruchspatil" target="blank">  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="http://www.github.com/ruchspatil" target="blank"><img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
