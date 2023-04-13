@@ -11,7 +11,4 @@ Pre-final year student with a Bachelor (B.Tech) degree in Data science engineeri
 </p>
 
 
-
-
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ruchita-patil&count_private=true&theme=tokyonight&showicons=true)]()
