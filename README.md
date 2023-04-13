@@ -12,15 +12,6 @@ Pre-final year student with a Bachelor (B.Tech) degree in Data science engineeri
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img align="left" alt="Coding" width="47" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-<img align="left" alt="Coding" width="47" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
-<img align="left" alt="Coding" width="47" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
-<img align="left" alt="Coding" width="47" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-<img align="left" alt="Coding" width="32" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-<img align="left" alt="Coding" width="47" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-
-
-
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ruchita-patil&count_private=true&theme=tokyonight&showicons=true)]()
