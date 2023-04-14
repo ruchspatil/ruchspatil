@@ -3,7 +3,7 @@ Data Engineer | Analyst 👩🏻‍💻
 
 Pre-final year student with a Bachelor (B.Tech) degree in Data science engineering, bringing statistical and predictive analytics expertise and ability to work within a range of data environments. Proven ability to increase data extraction efficiency and accuracy, with strong skills in research and programming methodologies.
 
-- :mailbox:How to reach me: <a href="mailto: ruchita20.patil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+- :mailbox: Reach me at: <a href="mailto: ruchita20.patil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
 <h3 align="left">Connect with me:</h3>
