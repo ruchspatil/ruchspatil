@@ -10,5 +10,7 @@ Pre-final year student with a Bachelor (B.Tech) degree in Data science engineeri
 <a href="http://www.github.com/ruchspatil" target="blank"><img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
 </p>
 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ruchita-patil&count_private=true&theme=tokyonight&showicons=true)]()
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+</p>
