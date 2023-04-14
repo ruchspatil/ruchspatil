@@ -12,7 +12,7 @@ Pre-final year student with a Bachelor (B.Tech) degree in Data science engineeri
 </p>
 
 <h3 align="left">Gmail:</h3>
-ruchita20.patil@gmail.com
+<a href="mailto: ruchita20.patil@gmail.com">ruchita20.patil@gmail.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
