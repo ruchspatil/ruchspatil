@@ -22,3 +22,15 @@ Pre-final year student with a Bachelor (B.Tech) degree in Data science engineeri
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=ruchspatil&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=ruchspatil&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=ruchspatil&show_icons=true" />
+</picture>
