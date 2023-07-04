@@ -29,14 +29,4 @@ Final year student with a Bachelor (B.Tech) degree in Data science engineering, 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=ruchspatil&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=ruchspatil&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=ruchspatil&show_icons=true" />
-</picture>
+
