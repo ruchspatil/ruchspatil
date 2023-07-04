@@ -1,7 +1,7 @@
 ### Hello there 👋 I'm Ruchita
 Data Engineer | Analyst 👩🏻‍💻
 
-Pre-final year student with a Bachelor (B.Tech) degree in Data science engineering, bringing statistical and predictive analytics expertise and ability to work within a range of data environments. Proven ability to increase data extraction efficiency and accuracy, with strong skills in research and programming methodologies.
+Final year student with a Bachelor (B.Tech) degree in Data science engineering, bringing statistical and predictive analytics expertise and ability to work within a range of data environments. Proven ability to increase data extraction efficiency and accuracy, with strong skills in research and programming methodologies.
 
 - :paperclip: Visit my website: <a href="https://ruchspatil.github.io/" target="blank">https://ruchspatil.github.io/</a>
 
