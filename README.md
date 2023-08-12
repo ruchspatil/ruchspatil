@@ -1,12 +1,13 @@
-### Hello there 👋 I'm Ruchita
-Data Engineer | Analyst 👩🏻‍💻
+### Hello there, I'm [Ruchita](https://ruchspatil.github.io/)
+Data Engineer | Analyst 👩🏻‍💻 | Proficient in Python | ML enthusiast | Open Source Contributor | Intern @MaxgenTechnologies @AsteriscTechnocract @CloudCounselagePvt.Ltd.
 
 Final year student with a Bachelor (B.Tech) degree in Data science engineering, bringing statistical and predictive analytics expertise and ability to work within a range of data environments. Proven ability to increase data extraction efficiency and accuracy, with strong skills in research and programming methodologies.
 
 - :paperclip: Visit my website: <a href="https://ruchspatil.github.io/" target="blank">https://ruchspatil.github.io/</a>
-
 - :mailbox: Reach me at: <a href="mailto: ruchita20.patil@gmail.com">ruchita20.patil@gmail.com</a>
-
+- I’m currently working as an Intern at Maxgen Technologies
+- I'm Open for New Opportunities!
+                                                                                                
 
 <h3 align="left">Socials:</h3>
 <p align="left">
@@ -29,4 +30,6 @@ Final year student with a Bachelor (B.Tech) degree in Data science engineering, 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchspatil&layout=compact)](https://github.com/ruchspatil)
+![Avinash GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruchspatil)
 
