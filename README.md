@@ -40,5 +40,5 @@ Final year student with a Bachelor (B.Tech) degree in Computer engineering (DS),
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchspatil&layout=compact)](https://github.com/ruchspatil)
-![Avinash GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruchspatil)
+
 
