@@ -4,7 +4,7 @@ Engineer | Analyst 👩🏻‍💻 | Proficient in Python | DSA | Intern @Maxgen
 Final year student with a Bachelor (B.Tech) degree in Computer engineering (DS), bringing programming expertise. Looking to apply practical experience in a junior engineer role for Query Technology Solutions. Proven ability to work in a practical environment with strong skills in programming methodologies.
 
 - :paperclip: Visit my website: <a href="https://ruchspatil.github.io/" target="blank">https://ruchspatil.github.io/</a>
-- :mailbox: Reach me at: <a href="mailto: ruchita20.patil@gmail.com">ruchita20.patil@gmail.com</a>
+- :mailbox: Reach me at: <a href="mailto: er.ruchspatil@gmail.com">ruchita20.patil@gmail.com</a>
 - I’m currently working as an Intern at Maxgen Technologies
 - I'm Open for New Opportunities!
                                                                                                 
