@@ -6,7 +6,7 @@ Final year student with a Bachelor (B.Tech) degree in Computer engineering (DS),
 - :paperclip: Visit my website: <a href="https://ruchspatil.github.io/" target="blank">https://ruchspatil.github.io/</a>
 - :mailbox: Reach me at: <a href="mailto: er.ruchspatil@gmail.com">er.ruchspatil@gmail.com</a>
 - I’m currently working as an Intern at Maxgen Technologies
-- I'm Open for New Opportunities!
+- I'm open to new opportunities!
                                                                                                 
 
 <h3 align="left">Socials:</h3>
