@@ -1,7 +1,7 @@
 ### Hello there, I'm [Ruchita](https://ruchspatil.github.io/)
 Aspiring Engineer | Analyst | Data Enthusiast | Fluent in Python, JavaScript & SQL | Intern @MaxgenTechnologies
 
-Final year student with a Bachelor (B.Tech) degree in Computer engineering (DS), bringing programming expertise. Looking to apply practical experience in a junior engineer role for Query Technology Solutions. Proven ability to work in a practical environment with strong skills in programming methodologies.
+Innovative engineer with a Bachelor (B.Tech) degree in Computer engineering (DS), bringing programming expertise. Proven ability to work in a practical environment with strong skills in advanced technologies. Additionally, Experienced in developing projects using various languages and Frameworks such as Python, Django, JavaScript, etc. as well as with a number of tools and databases such as MYSQL, PostgreSQL, AWS, Tableau, Git.
 
 - :paperclip: Visit my website: <a href="https://ruchspatil.github.io/" target="blank">https://ruchspatil.github.io/</a>
 - :mailbox: Reach me at: <a href="mailto: er.ruchspatil@gmail.com">er.ruchspatil@gmail.com</a>
