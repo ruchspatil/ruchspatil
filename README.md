@@ -1,5 +1,5 @@
 ### Hello there, I'm [Ruchita](https://ruchspatil.github.io/)
-Aspiring Engineer | Analyst | Data Enthusiast | Proficient in Python | Intern @MaxgenTechnologies
+Aspiring Engineer | Analyst | Data Enthusiast | Fluent in Python, JavaScript & SQL | Intern @MaxgenTechnologies
 
 Final year student with a Bachelor (B.Tech) degree in Computer engineering (DS), bringing programming expertise. Looking to apply practical experience in a junior engineer role for Query Technology Solutions. Proven ability to work in a practical environment with strong skills in programming methodologies.
 
