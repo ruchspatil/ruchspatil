@@ -1,5 +1,5 @@
 ### Hello there, I'm [Ruchita](https://ruchspatil.github.io/)
-Engineer | Analyst 👩🏻‍💻 | Proficient in Python | DSA | Intern @MaxgenTechnologies 
+Engineer | Analyst | Proficient in Python | DSA | Intern @MaxgenTechnologies 
 
 Final year student with a Bachelor (B.Tech) degree in Computer engineering (DS), bringing programming expertise. Looking to apply practical experience in a junior engineer role for Query Technology Solutions. Proven ability to work in a practical environment with strong skills in programming methodologies.
 
