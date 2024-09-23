@@ -4,7 +4,7 @@ Aspiring Engineer | Developer | Analyst | SME @CourseHero | Ex - Intern @MaxgenT
 Innovative engineer with a Bachelor (B.Tech) degree in Computer engineering (DS), bringing programming expertise. Proven ability to work in a practical environment with strong skills in advanced technologies. Additionally, Experienced in developing projects using various languages and frameworks such as Python, Django, streamlit etc. as well as with a number of tools and databases such as MYSQL, PostgreSQL, AWS, Tableau, Git.
 
 - :paperclip: Visit my website: <a href="https://ruchspatil.github.io/" target="blank">https://ruchspatil.github.io/</a>
-- :mailbox: Reach me at: <a href="mailto: er.ruchspatil@gmail.com">er.ruchspatil@gmail.com</a>
+- :mailbox: Reach me at: <a href="mailto: er.ruchspatil@gmail.com">er.ruchitapatil@gmail.com</a>
 - Ex-Intern @MaxgenTechnologies
 - I'm open to new opportunities!
                                                                                                 
