@@ -1,5 +1,5 @@
 ### Hello there, I'm [Ruchita](https://ruchspatil.github.io/)
-Aspiring Engineer | Analyst | Data Enthusiast | Fluent in Python, JavaScript & SQL | Intern @MaxgenTechnologies
+Aspiring Engineer | Developer | Analyst | SME @CourseHero | Ex - Intern @MaxgenTechnologies
 
 Innovative engineer with a Bachelor (B.Tech) degree in Computer engineering (DS), bringing programming expertise. Proven ability to work in a practical environment with strong skills in advanced technologies. Additionally, Experienced in developing projects using various languages and frameworks such as Python, Django, streamlit etc. as well as with a number of tools and databases such as MYSQL, PostgreSQL, AWS, Tableau, Git.
 
