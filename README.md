@@ -42,6 +42,4 @@ Innovative engineer with a Bachelor (B.Tech) degree in Computer engineering (DS)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchspatil&layout=compact)
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user={ruchspatil})
-
 
