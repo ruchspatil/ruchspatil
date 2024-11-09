@@ -1,15 +1,6 @@
 ### Hello there, I'm [Ruchita](https://ruchspatil.github.io/)
 Aspiring Engineer | Developer | Analyst | SME @CourseHero | Ex - Intern @MaxgenTechnologies
 
-Innovative engineer with a Bachelor (B.Tech) degree in Computer engineering (DS), bringing programming expertise. Proven ability to work in a practical environment with strong skills in advanced technologies. Additionally, Experienced in developing projects using various languages and frameworks such as Python, Django, streamlit etc. as well as with a number of tools and databases such as MYSQL, PostgreSQL, Azure, Git.
-
-- :paperclip: Visit my website: <a href="https://ruchspatil.github.io/" target="blank">https://ruchspatil.github.io/</a>
-- :mailbox: Reach me at: <a href="mailto: er.ruchspatil@gmail.com">er.ruchitapatil@gmail.com</a>
-- Ex-Intern @MaxgenTechnologies
-- I'm open to new opportunities!
-                                                                                                
-
-<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ruchspatil" target="blank">  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="http://www.github.com/ruchspatil" target="blank"><img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
@@ -17,6 +8,13 @@ Innovative engineer with a Bachelor (B.Tech) degree in Computer engineering (DS)
   <a href="https://ruchspatil.github.io/" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt=" "/></a>
 </p>
 
+Innovative engineer with a Bachelor (B.Tech) degree in Computer engineering (DS), bringing programming expertise. Proven ability to work in a practical environment with strong skills in advanced technologies. Additionally, Experienced in developing projects using various languages and frameworks such as Python, Django, streamlit etc. as well as with a number of tools and databases such as MYSQL, PostgreSQL, Azure, Git.
+
+- :paperclip: Visit my website: <a href="https://ruchspatil.github.io/" target="blank">https://ruchspatil.github.io/</a>
+- :mailbox: Reach me at: <a href="mailto: er.ruchspatil@gmail.com">er.ruchitapatil@gmail.com</a>
+- Ex-Intern @MaxgenTechnologies
+- I'm open to new opportunities!
+                                                                                                
 
 <h3 align="left">My Skill Set:</h3>
 <table><tr><td valign="top" width="33%">
