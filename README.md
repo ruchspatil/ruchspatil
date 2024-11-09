@@ -64,7 +64,7 @@ Innovative engineer with a Bachelor (B.Tech) degree in Computer engineering (DS)
 
 
 
-<h3 align="left">Most Used Languages:</h3>
+<h3 align="left">Languages & Streak:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchspatil&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchspatil&layout=compact)   [![GitHub Streak](https://streak-stats.demolab.com?user=ruchspatil)](https://git.io/streak-stats)
 
