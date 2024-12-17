@@ -12,7 +12,7 @@ Innovative engineer with a Bachelor (B.Tech) degree in Computer engineering (DS)
 
 - :paperclip: Visit my website: <a href="https://ruchspatil.github.io/" target="blank">https://ruchspatil.github.io/</a>
 - :mailbox: Reach me at: <a href="mailto: er.ruchspatil@gmail.com">er.ruchitapatil@gmail.com</a>
-- Ex-Intern @MaxgenTechnologies
+- Mentee @InfosysSpringboard
 - I'm open to new opportunities!
                                                                                                 
 
@@ -64,5 +64,5 @@ Innovative engineer with a Bachelor (B.Tech) degree in Computer engineering (DS)
 
 <h3 align="left">Languages & Streak:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchspatil&layout=compact)   [![GitHub Streak](https://streak-stats.demolab.com?user=ruchspatil)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchspatil&layout=compact)    [![GitHub Streak](https://streak-stats.demolab.com?user=ruchspatil)](https://git.io/streak-stats)
 
