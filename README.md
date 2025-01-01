@@ -1,5 +1,5 @@
 ### Hello there, I'm [Ruchita](https://ruchspatil.github.io/)
-Aspiring Engineer | Developer | Cohort'3 Mentee @InfosysSpringboard | Exploring AI Solutions 👩🏻‍💻🚀
+Aspiring Engineer | Developer | Cohort'3 Mentee @Infosys | Exploring AI Solutions 👩🏻‍💻🚀
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ruchspatil" target="blank">  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
