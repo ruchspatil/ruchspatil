@@ -8,7 +8,7 @@ Aspiring Engineer | Developer | Cohort'3 Mentee @Infosys | Exploring AI Solution
   <a href="https://ruchspatil.github.io/" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt=" "/></a>
 </p>
 
-Innovative engineer with a Bachelor (B.Tech) degree in Computer engineering (DS), bringing programming expertise. Proven ability to work in a practical environment with strong skills in advanced technologies. Additionally, Experienced in developing projects using various languages and frameworks such as Python, Django, streamlit etc. as well as with a number of tools and databases such as MYSQL, PostgreSQL, Azure, Git.
+Innovative engineer with a Bachelor (B.Tech) degree in Computer engineering (DS), bringing programming expertise. Proven ability to work in a practical environment with strong skills in advanced technologies. Additionally, Experienced in developing projects using various languages and frameworks such as Python, Django, streamlit etc. as well as with a number of tools and databases such as MYSQL, PostgreSQL and Azure.
 
 - :paperclip: Visit my website: <a href="https://ruchspatil.github.io/" target="blank">https://ruchspatil.github.io/</a>
 - :mailbox: Reach me at: <a href="mailto: er.ruchspatil@gmail.com">er.ruchitapatil@gmail.com</a>
