@@ -12,7 +12,7 @@ Innovative engineer with a Bachelor (B.Tech) degree in Computer engineering (DS)
 
 - :paperclip: Visit my website: <a href="https://ruchspatil.github.io/" target="blank">https://ruchspatil.github.io/</a>
 - :mailbox: Reach me at: <a href="mailto: er.ruchspatil@gmail.com">er.ruchitapatil@gmail.com</a>
-- Mentee @Infosys
+- Ex-Mentee @Infosys
 - I'm open to new opportunities!
                                                                                                 
 
