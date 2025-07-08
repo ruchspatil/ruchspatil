@@ -11,7 +11,6 @@ Aspiring Engineer | Developer | Cohort'3 Mentee @Infosys | Eager to Learn & Coll
 Innovative engineer with a Bachelor (B.Tech) degree in Computer engineering (DS), bringing programming expertise. Proven ability to work in a practical environment with strong skills in advanced technologies. Additionally, Experienced in developing projects using various languages and frameworks such as Python, Django, streamlit etc. as well as with a number of tools and databases such as MYSQL, PostgreSQL and Azure.
 
 - :mailbox: Reach me at: <a href="mailto: er.ruchspatil@gmail.com">er.ruchitapatil@gmail.com</a>
-- Ex-Mentee @Infosys
 - I'm open to new opportunities!
                                                                                                 
 
