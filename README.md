@@ -1,61 +1,107 @@
-### Hello there, I'm [Ruchita](https://ruchspatil.github.io/)
+### Hey there, I'm [Ruchita](https://ruchspatil.github.io/) <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> 
+
 Eager to Learn, Collaborate, and Explore new Ideas 👩🏻‍💻🚀
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ruchspatil" target="blank">  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="http://www.github.com/ruchspatil" target="blank"><img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
-   <a href="https://www.hackerrank.com/ruchspatil?hr_r=1" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt=" "/></a>
- 
+  <a href="https://www.linkedin.com/in/ruchspatil" target="_blank">  
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>   
+  <a href="http://www.github.com/ruchspatil" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+</a> 
+  <a href="https://discord.gg/ruchspatil_40492" target="_blank">
+    <img alt="Discord Server" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white&style=for-the-badge" />
+  </a>
+<a href="https://ruchitatech.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-VisitMe-informational?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+</a>
 </p>
 
+- 🔭 I’m currently working on Full Stack Development and Product Documentation
+- 🌱 I’m currently learning various tech that interests me
+- ⚡ Fun fact: Chess Lover ♟️
+- 🤝 I'm open to new opportunities!
+- :mailbox: <a href="https://ruchitatech.vercel.app/contact" target="_blank"><strong>Say hi here</strong></a>
+          
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
+</picture>   
 
-Innovative engineer with a Bachelor (B.Tech) degree in Computer engineering (DS), bringing programming expertise. Proven ability to work in a practical environment with strong skills in advanced technologies. Additionally, Experienced in developing projects using various languages and frameworks such as Python, Django, streamlit etc. as well as with a number of tools and databases such as MYSQL and Azure.
+### Skills
 
-- :mailbox: Reach me at: <a href="mailto: er.ruchspatil@gmail.com">er.ruchitapatil@gmail.com</a>
-- I'm open to new opportunities!
-                                                                                                
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+</a>
+<a href="https://www.javascript.com/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+</a>
+<a href="https://www.tailwindcss.com/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+</a>
+<a href="https://www.cplusplus.com/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+</a>
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
+</a>
+<a href="https://cloud.google.com/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+</a>
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />
+</a>
+<a href="https://www.apachefriends.org/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />
+</a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />
+</a>
 
-<h3 align="left">My Skill Set:</h3>
-<table><tr><td valign="top" width="33%">
+
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
+</picture>
+
+### 🖊️ Articles
+<!-- DEVTO-BLOG-LIST:START -->
+<!-- DEVTO-BLOG-LIST:END --> 
+
+<!-- HASHNODE-BLOG-LIST:START -->
+<!-- HASHNODE-BLOG-LIST:END -->
+
+<!-- MEDIUM-BLOG-LIST:START -->
+- [Progressive Web Apps (PWAs): How to Build Fast, Reliable, and Engaging Apps](https://medium.com/@er.ruchitapatil/progressive-web-apps-pwas-in-2025-how-to-build-fast-reliable-and-engaging-apps-e3c5bb051513)
+- [UI Microcopy Best Practices for Web Apps](https://ruchitatech.vercel.app/UI-Microcopy-Best-Practices-for-Web-Apps)
+- [The Ultimate Guide For Writing SaaS Documentation That Actually Works](https://ruchitatech.vercel.app/The-Ultimate-Guide-to-Writing-Saas-Documentation)
 
 
 
-### Frontend  
-<div align="center">  
-  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<div align="center">
+
+### 🏆 GitHub Trophies
+
 </div>
 
-</td><td valign="top" width="33%">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ruchspatil&theme=matrix&title=MultiLanguage,Stars,Followers,Commits,Issues,PullRequest,Experience,Repositories" alt="GitHub Trophies" />
+</p>
 
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<div>
+  <table align="center">
+    <tr>
+      
+     
+  </table>
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DB & Tools  
-<div align="center">  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a> 
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
 
 
 <h3 align="left">Languages & Streak:</h3>
