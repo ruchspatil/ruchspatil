@@ -4,16 +4,13 @@ Eager to Learn, Collaborate, and Explore new Ideas 👩🏻‍💻🚀
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ruchspatil" target="_blank">  
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>   
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+<a href="https://ruchitatech.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-VisitMe-success?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+</a>
+</a>
   <a href="http://www.github.com/ruchspatil" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-</a> 
-  <a href="https://discord.gg/ruchspatil_40492" target="_blank">
-    <img alt="Discord Server" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white&style=for-the-badge" />
-  </a>
-<a href="https://ruchitatech.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-VisitMe-informational?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
 </a>
 </p>
 
