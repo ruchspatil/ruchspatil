@@ -68,6 +68,16 @@ Eager to Learn, Collaborate, and Explore new Ideas 👩🏻‍💻🚀
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
 </picture>
 
+### Badge
+
+  <img src="https://i.postimg.cc/28v3VGNq/lvl5-human.webp" height="100">
+
+
+
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
+</picture>
+
 ### 🖊️ Articles
 <!-- DEVTO-BLOG-LIST:START -->
 <!-- DEVTO-BLOG-LIST:END --> 
