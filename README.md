@@ -71,11 +71,11 @@ Eager to Learn, Collaborate, and Explore new Ideas 👩🏻‍💻🚀
 ### Badge
 
   <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://i.postimg.cc/c4s4LShR/Postman-Postman-API-Fundamentals-Student-Expert-2025-10-14.png" height="100">
-  <img src="https://i.postimg.cc/sXX4r88d/Explorer-Badge-1.png" height="100">
-  <img src="https://i.postimg.cc/28v3VGNq/lvl5-human.webp" height="100">
+  <img src="https://i.postimg.cc/c4s4LShR/Postman-Postman-API-Fundamentals-Student-Expert-2025-10-14.png" height="110">
+  <img src="https://i.postimg.cc/sXX4r88d/Explorer-Badge-1.png" height="110">
+  <img src="https://i.postimg.cc/28v3VGNq/lvl5-human.webp" height="110">
   <img src="https://i.postimg.cc/CLNCRwgz/ey-Jid-WNr-ZXQi-Oi-Job2xvc-Glu-LWFzc2V0cy-Is-Imtle-SI6Im-Fzc2V0cy9jb-WY2Nmlraj-Qw-MDAwa-WUw-NG8xa-GR.webp" height="100">
-  <img src="https://i.postimg.cc/HWKn3K9J/lvl4-human.webp" height="100">
+  <img src="https://i.postimg.cc/HWKn3K9J/lvl4-human.webp" height="110">
 </div>
 
 <picture>
