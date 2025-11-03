@@ -26,7 +26,7 @@
 
 <picture>
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
-</picture> <br> <br>
+</picture> <br> 
 
 <div align="center">
 <h3>• Skills •</h3>
@@ -69,7 +69,7 @@
 
 <picture>
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
-</picture><br><br>
+</picture><br>
 
 <div align="center">
 <h3>• Badge •</h3> 
@@ -85,7 +85,7 @@
 </div><br>
 <picture>
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
-</picture><br><br>
+</picture><br>
 
 <div align="center">
  <h3>• Articles • </h3>
