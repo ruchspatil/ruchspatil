@@ -86,7 +86,7 @@ Badge
 </picture><br><br>
 
 <div align="center">
- 🖊️ Articles
+ Articles
 </div><br>
 
 <!-- DEVTO-BLOG-LIST:START -->
