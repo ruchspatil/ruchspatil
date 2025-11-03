@@ -102,8 +102,9 @@
 - [UI Microcopy Best Practices for Web Apps](https://ruchitatech.vercel.app/UI-Microcopy-Best-Practices-for-Web-Apps)
 - [The Ultimate Guide For Writing SaaS Documentation That Actually Works](https://ruchitatech.vercel.app/The-Ultimate-Guide-to-Writing-Saas-Documentation)
 
-<br>
-
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
+</picture> <br> 
 <div align="center">
 
 <h3>🏆 GitHub Trophies</h3><br>
