@@ -1,8 +1,8 @@
-### Hey there, I'm [Ruchita](https://ruchspatil.github.io/) <img src="https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif" width="20px" height="20px"/> 
-
-Eager to Learn, Collaborate, and Explore new Ideas 👩🏻‍💻🚀
-
-<p align="left">
+<h2 align="center">✨ Hey there, I'm <a href="https://ruchspatil.github.io/" target="_blank">Ruchita</a> 👋</h2>
+<p align="center">
+  <em>Eager to Learn, Collaborate, and Explore New Ideas 👩🏻‍💻🚀</em>
+</p>
+<p align="center">
   <a href="https://www.linkedin.com/in/ruchspatil" target="_blank">  
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
 <a href="https://ruchitatech.vercel.app/" target="_blank">
@@ -14,12 +14,14 @@ Eager to Learn, Collaborate, and Explore new Ideas 👩🏻‍💻🚀
 </a>
 </p>
 
-- 🔭 I’m currently working on Full Stack Development and Product Documentation
-- 🌱 I’m currently learning various tech that interests me
-- ⚡ Fun fact: Chess Lover ♟️
-- 🤝 I'm open to new opportunities!
-- :mailbox: <a href="https://ruchitatech.vercel.app/contact" target="_blank"><strong>Say hi here</strong></a>
-          
+<p align="center">  
+  🔭 I’m currently working on <b>Full Stack Development</b> and <b>Product Documentation</b><br>  
+  🌱 I’m currently learning various tech that interests me<br>  
+  ⚡ Fun fact: <b>Chess Lover ♟️ | 
+  🤝 I'm open to <b>new opportunities!</b><br>  
+  📬 <a href="https://ruchitatech.vercel.app/contact" target="_blank"><strong>Say hi here 💌</strong></a>  
+</p>
+
 <picture>
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
 </picture>   
