@@ -89,7 +89,7 @@
 
 <div align="center">
  <h3>Articles</h3>
-</div><br>
+</div>
 
 <!-- DEVTO-BLOG-LIST:START -->
 <!-- DEVTO-BLOG-LIST:END --> 
