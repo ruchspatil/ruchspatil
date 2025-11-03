@@ -28,7 +28,7 @@
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
 </picture> <br> <br>
 
-<div align="centre">
+<div align="center">
 <h3>Skills</h3>
 
 <br>
@@ -106,7 +106,7 @@
 
 <div align="center">
 
-<h3>🏆 GitHub Trophies</h3>
+<h3>🏆 GitHub Trophies</h3><br>
 
 </div>
 
@@ -123,7 +123,7 @@
 </div>
 
 <div align="center">
-Languages & Streak
+<h3>Languages & Streak</h3>
 </div><br>
 <div align="center">
 
