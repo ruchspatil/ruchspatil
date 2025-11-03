@@ -1,4 +1,6 @@
-<h2 align="center">✨ Hey there, I'm <a href="https://ruchspatil.github.io/" target="_blank">Ruchita</a> 👋</h2>
+<h2 align="center">
+✨ Hey there, I'm <a href="https://ruchitatech.vercel.app/" target="_blank">Ruchita</a> 👋</h2>
+
 <p align="center">
   <em>Eager to Learn, Collaborate, and Explore New Ideas 👩🏻‍💻🚀</em>
 </p>
