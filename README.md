@@ -29,7 +29,7 @@
 </picture> <br> <br>
 
 <div align="center">
-<h3>Skills</h3>
+<h3>• Skills •</h3>
 
 
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
@@ -72,7 +72,7 @@
 </picture><br><br>
 
 <div align="center">
-<h3>Badge</h3> 
+<h3>• Badge •</h3> 
 
 
   <div style="display: flex; gap: 10px; align-items: center;">
@@ -88,7 +88,7 @@
 </picture><br><br>
 
 <div align="center">
- <h3>Articles</h3>
+ <h3>• Articles • </h3>
 </div>
 
 <!-- DEVTO-BLOG-LIST:START -->
@@ -123,7 +123,7 @@
 </div>
 
 <div align="center">
-<h3>Languages & Streak</h3>
+<h3>• Languages & Streak •</h3>
 </div><br>
 <div align="center">
 
