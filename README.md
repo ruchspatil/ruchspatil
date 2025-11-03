@@ -120,8 +120,12 @@ Badge
   </table>
 </div>
 
+<div align="center">
+Languages & Streak
+</div><br>
+<div align="center">
 
-<h3 align="left">Languages & Streak:</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchspatil&layout=compact)    [![GitHub Streak](https://streak-stats.demolab.com?user=ruchspatil)](https://git.io/streak-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchspatil&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ruchspatil)](https://git.io/streak-stats)
+ 
+</div><br>
