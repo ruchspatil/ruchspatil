@@ -24,10 +24,12 @@
 
 <picture>
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
-</picture>   
+</picture> <br> <br>
 
-### Skills
+<div align="center">
+Skills
 
+<br>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 </a>
@@ -61,13 +63,15 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />
 </a>
-
+</div><br>
 
 <picture>
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
-</picture>
+</picture><br><br>
 
-### Badge
+<div align="center">
+Badge,
+<br>
 
   <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://i.postimg.cc/c4s4LShR/Postman-Postman-API-Fundamentals-Student-Expert-2025-10-14.png" height="100">
@@ -76,12 +80,15 @@
   <img src="https://i.postimg.cc/CLNCRwgz/ey-Jid-WNr-ZXQi-Oi-Job2xvc-Glu-LWFzc2V0cy-Is-Imtle-SI6Im-Fzc2V0cy9jb-WY2Nmlraj-Qw-MDAwa-WUw-NG8xa-GR.webp" height="100">
   <img src="https://i.postimg.cc/HWKn3K9J/lvl4-human.webp" height="100">
 </div>
-
+</div><br>
 <picture>
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
-</picture>
+</picture><br><br>
 
-### 🖊️ Articles
+<div align="center">
+ 🖊️ Articles
+</div><br>
+
 <!-- DEVTO-BLOG-LIST:START -->
 <!-- DEVTO-BLOG-LIST:END --> 
 
@@ -93,7 +100,7 @@
 - [UI Microcopy Best Practices for Web Apps](https://ruchitatech.vercel.app/UI-Microcopy-Best-Practices-for-Web-Apps)
 - [The Ultimate Guide For Writing SaaS Documentation That Actually Works](https://ruchitatech.vercel.app/The-Ultimate-Guide-to-Writing-Saas-Documentation)
 
-
+<br>
 
 <div align="center">
 
