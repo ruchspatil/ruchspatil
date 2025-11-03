@@ -31,7 +31,7 @@
 <div align="center">
 <h3>Skills</h3>
 
-<br>
+
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 </a>
@@ -73,7 +73,7 @@
 
 <div align="center">
 <h3>Badge</h3> 
-<br><br>
+
 
   <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://i.postimg.cc/c4s4LShR/Postman-Postman-API-Fundamentals-Student-Expert-2025-10-14.png" height="100">
