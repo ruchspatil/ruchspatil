@@ -28,8 +28,8 @@
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
 </picture> <br> <br>
 
-<div align="center">
-Skills
+<div align="centre">
+<h3>Skills</h3>
 
 <br>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
@@ -72,7 +72,7 @@ Skills
 </picture><br><br>
 
 <div align="center">
-Badge
+<h3>Badge</h3> 
 <br><br>
 
   <div style="display: flex; gap: 10px; align-items: center;">
@@ -88,7 +88,7 @@ Badge
 </picture><br><br>
 
 <div align="center">
- Articles
+ <h3>Articles</h3>
 </div><br>
 
 <!-- DEVTO-BLOG-LIST:START -->
@@ -106,7 +106,7 @@ Badge
 
 <div align="center">
 
-🏆 GitHub Trophies
+<h3>🏆 GitHub Trophies</h3>
 
 </div>
 
