@@ -70,8 +70,8 @@ Skills
 </picture><br><br>
 
 <div align="center">
-Badge,
-<br>
+Badge
+<br><br>
 
   <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://i.postimg.cc/c4s4LShR/Postman-Postman-API-Fundamentals-Student-Expert-2025-10-14.png" height="100">
@@ -104,7 +104,7 @@ Badge,
 
 <div align="center">
 
-### 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 </div>
 
