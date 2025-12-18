@@ -47,9 +47,7 @@
 <a href="https://www.python.org/" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 </a>
-<a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
-</a>
+
 <a href="https://cloud.google.com/" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />
 </a>
