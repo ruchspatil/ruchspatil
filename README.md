@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">  
-  🔭 I’m currently working on <b>Full Stack Development</b> and <b>Product Documentation</b><br>  
+  🔭 I’m currently working on <b>Web Development</b> and <b>Product Documentation</b><br>  
   🌱 I’m currently learning various tech that interests me<br>  
   ⚡ Fun fact: <b>Chess Lover ♟️ | 
    I'm open to <b>new opportunities! 🤝🏻 </b><br>  </b><br>
