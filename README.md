@@ -1,5 +1,5 @@
 <h2 align="center">
-✨ Hey there, I'm <a href="https://ruchitatech.vercel.app/" target="_blank">Ruchita</a> 👋🏻</h2>
+✨ Hey there, I'm <a href="https://withruchita.vercel.app/" target="_blank">Ruchita</a> 👋🏻</h2>
 
 <p align="center">
   <em>Eager to Learn, Collaborate, and Explore New Ideas 👩🏻‍💻🚀</em>
@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ruchspatil" target="_blank">  
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
-<a href="https://ruchitatech.vercel.app/" target="_blank">
+<a href="https://withruchita.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Website-VisitMe-success?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
 </a>
 </a>
@@ -21,7 +21,7 @@
   🌱 I’m currently learning various tech that interests me<br>  
   ⚡ Fun fact: <b>Chess Lover ♟️ | 
    I'm open to <b>new opportunities! 🤝🏻 </b><br>  </b><br>
-  📬 <a href="https://ruchitatech.vercel.app/contact" target="_blank"><strong>Say hi here 💌</strong></a>  
+  📬 <a href="https://withruchita.vercel.app/contact" target="_blank"><strong>Say hi here 💌</strong></a>  
 </p>
 
 <picture>
@@ -97,8 +97,8 @@
 
 <!-- MEDIUM-BLOG-LIST:START -->
 - [Progressive Web Apps (PWAs): How to Build Fast, Reliable, and Engaging Apps](https://medium.com/@er.ruchitapatil/progressive-web-apps-pwas-in-2025-how-to-build-fast-reliable-and-engaging-apps-e3c5bb051513)
-- [UI Microcopy Best Practices for Web Apps](https://ruchitatech.vercel.app/UI-Microcopy-Best-Practices-for-Web-Apps)
-- [The Ultimate Guide For Writing SaaS Documentation That Actually Works](https://ruchitatech.vercel.app/The-Ultimate-Guide-to-Writing-Saas-Documentation)
+- [UI Microcopy Best Practices for Web Apps](https://withruchita.vercel.app/UI-Microcopy-Best-Practices-for-Web-Apps)
+- [The Ultimate Guide For Writing SaaS Documentation That Actually Works](https://withruchita.vercel.app/The-Ultimate-Guide-to-Writing-Saas-Documentation)
 
 <picture>
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
