@@ -63,13 +63,6 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />
 </a>
-<a href="https://zapier.com" target="_blank">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Zapier_logo.svg"
-    alt="Zapier"
-    height="50"
-  />
-</a>
 
 <a href="https://n8n.io" target="_blank">
   <img
