@@ -65,7 +65,7 @@
 </a>
 <a href="https://zapier.com" target="_blank">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zapier/zapier-original.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Zapier_logo.svg"
     alt="Zapier"
     height="50"
   />
