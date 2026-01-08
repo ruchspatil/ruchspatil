@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">  
-  🔭 I’m currently working on <b>Web</b> and <b>Automation  Development</b><br>  
+  🔭 I’m currently working on <b>Web</b> & <b>Automation  Development</b><br>  
   🌱 I’m currently learning various tech that interests me<br>  
   ⚡ Fun fact: <b>Chess Lover ♟️ | 
    I'm open to <b>new opportunities! 🤝🏻 </b><br>  </b><br>
