@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ruchspatil" target="_blank">  
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
-<a href="https://withruchita.vercel.app/" target="_blank">
+<a href="https://ruchitatech.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Website-VisitMe-success?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
 </a>
 </a>
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">  
-  🔭 I’m currently working on <b>Web</b> & <b>Automation  Development</b><br>  
+  🔭 I’m currently working on <b>AI</b> & <b>Automation  Development</b><br>  
   🌱 I’m currently learning various tech that interests me<br>  
   ⚡ Fun fact: <b>Chess Lover ♟️ | 
    I'm open to <b>new opportunities! 🤝🏻 </b><br>  </b><br>
