@@ -1,5 +1,5 @@
 <h2 align="center">
-✨ Hi there, I'm <a href="https://withruchita.vercel.app/" target="_blank">Ruchita</a> 👋🏻</h2>
+✨ Hi there, I'm <a href="https://ruchitatech.vercel.app/" target="_blank">Ruchita</a> 👋🏻</h2>
 
 <p align="center">
   <em>Eager to Learn, Collaborate, and Explore New Ideas 👩🏻‍💻🚀</em>
@@ -109,7 +109,7 @@
 
 <!-- MEDIUM-BLOG-LIST:START -->
 - [Progressive Web Apps (PWAs): How to Build Fast, Reliable, and Engaging Apps](https://medium.com/@er.ruchitapatil/progressive-web-apps-pwas-in-2025-how-to-build-fast-reliable-and-engaging-apps-e3c5bb051513)
-- [Reddit-to-Leads: The n8n "Lead Machine"](https://ruchitatech.vercel.app/projects)
+- [Reddit-to-Leads: The n8n "Lead Machine"](https://open.substack.com/pub/withruchita/p/reddit-to-leads-the-n8n-lead-machine?utm_source=share&utm_medium=android&r=6885bn)
 
 <picture>
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
