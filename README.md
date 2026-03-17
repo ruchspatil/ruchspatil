@@ -21,7 +21,7 @@
   🌱 I’m currently learning various tech that interests me<br>  
   ⚡ Fun fact: <b>Chess Lover ♟️ | 
    I'm open to <b>new opportunities! 🤝🏻 </b><br>  </b><br>
-  📬 <a href="https://withruchita.vercel.app/contact" target="_blank"><strong>Say hi here 💌</strong></a>  
+  📬 <a href="https://ruchitatech.vercel.app/contact" target="_blank"><strong>Say hi here 💌</strong></a>  
 </p>
 
 <picture>
