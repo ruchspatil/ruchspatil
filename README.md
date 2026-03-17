@@ -1,5 +1,5 @@
 <h2 align="center">
-✨ Hey there, I'm <a href="https://withruchita.vercel.app/" target="_blank">Ruchita</a> 👋🏻</h2>
+✨ Hi there, I'm <a href="https://withruchita.vercel.app/" target="_blank">Ruchita</a> 👋🏻</h2>
 
 <p align="center">
   <em>Eager to Learn, Collaborate, and Explore New Ideas 👩🏻‍💻🚀</em>
