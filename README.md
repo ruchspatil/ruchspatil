@@ -31,6 +31,9 @@
 <div align="center">
 <h3>• Skills •</h3>
 
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+</a>
 
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
@@ -44,9 +47,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 </a>
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-</a>
+
 
 <a href="https://cloud.google.com/" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />
@@ -108,8 +109,7 @@
 
 <!-- MEDIUM-BLOG-LIST:START -->
 - [Progressive Web Apps (PWAs): How to Build Fast, Reliable, and Engaging Apps](https://medium.com/@er.ruchitapatil/progressive-web-apps-pwas-in-2025-how-to-build-fast-reliable-and-engaging-apps-e3c5bb051513)
-- [UI Microcopy Best Practices for Web Apps](https://withruchita.vercel.app/UI-Microcopy-Best-Practices-for-Web-Apps)
-- [The Ultimate Guide For Writing SaaS Documentation That Actually Works](https://withruchita.vercel.app/The-Ultimate-Guide-to-Writing-Saas-Documentation)
+- [Reddit-to-Leads: The n8n "Lead Machine"](https://ruchitatech.vercel.app/projects)
 
 <picture>
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
