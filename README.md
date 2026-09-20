@@ -1,5 +1,5 @@
 <h2 align="center">
-✨ Hi there, I'm <a href="https://ruchitatech.vercel.app/" target="_blank">Ruchita</a> 👋🏻</h2>
+✨ Hi there, I'm <a href="[https://linktr.ee/ruchita.patil]" target="_blank">Ruchita</a> 👋🏻</h2>
 
 <p align="center">
   <em>Eager to Learn, Collaborate, and Explore New Ideas 👩🏻‍💻🚀</em>
@@ -21,7 +21,7 @@
   🌱 I’m currently learning various tech that interests me<br>  
   ⚡ Fun fact: <b>Chess Lover ♟️ | 
    I'm open to <b>new opportunities! 🤝🏻 </b><br>  </b><br>
-  📬 <a href="https://ruchitatech.vercel.app/contact" target="_blank"><strong>Say hi here 💌</strong></a>  
+  📬 <a href="https://ruchitatech.framer.website/contact#contact" target="_blank"><strong>Say hi here 💌</strong></a>  
 </p>
 
 <picture>
