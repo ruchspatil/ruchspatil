@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ruchspatil" target="_blank">  
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
-<a href="https://ruchitatech.vercel.app/" target="_blank">
+<a href="[https://linktr.ee/ruchita.patil]" target="_blank">
   <img src="https://img.shields.io/badge/Website-VisitMe-success?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
 </a>
 </a>
