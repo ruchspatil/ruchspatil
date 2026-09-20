@@ -109,7 +109,7 @@
 
 <!-- MEDIUM-BLOG-LIST:START -->
 - [Progressive Web Apps (PWAs): How to Build Fast, Reliable, and Engaging Apps](https://medium.com/@er.ruchitapatil/progressive-web-apps-pwas-in-2025-how-to-build-fast-reliable-and-engaging-apps-e3c5bb051513)
-- [Reddit-to-Leads: The n8n "Lead Machine"](https://open.substack.com/pub/withruchita/p/reddit-to-leads-the-n8n-lead-machine?utm_source=share&utm_medium=android&r=6885bn)
+- [The Difference Between “AI-Powered” and “AI That’s Actually Useful](https://medium.com/@er.ruchitapatil/the-difference-between-ai-powered-and-ai-thats-actually-useful-e070facbaf17?sharedUserId=er.ruchitapatil)
 
 <picture>
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
